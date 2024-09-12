@@ -61,6 +61,12 @@ Height: 4
 ####  ####
 ```
 
+![image](https://github.com/user-attachments/assets/a928dd7f-c14e-4d1d-8794-fafd3576b35a)
+*Single pyramid - left side!*
+
+![image](https://github.com/user-attachments/assets/84eac8fc-457e-4d75-9dd5-6591c7a80fdf)
+*Double pyramid - both left and right sides!*
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
